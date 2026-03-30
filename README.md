@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" alt="DevOps" width="380" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
-
 ## 👨‍💻 About Me
 
 💡 I am a **DevOps Engineer** with strong knowledge of **AWS Cloud, DevOps tools, Linux systems, and networking fundamentals**.  
