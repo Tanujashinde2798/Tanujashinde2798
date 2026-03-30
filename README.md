@@ -1,6 +1,11 @@
-<!-- Modern DevOps Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Hitesh Patil</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+Cloud+Specialist;CI%2FCD+Automation;Kubernetes+%7C+Docker+Expert" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanuja Shinde</h1>
