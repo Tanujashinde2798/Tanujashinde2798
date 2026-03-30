@@ -1,24 +1,25 @@
+<!-- 🔥 Custom DevOps Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hitesh%20Patil&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20%7C%20Networking&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Tanuja Shinde</h1>
-<h3 align="center">🚀 DevOps & Cloud Engineer | Automating Scalable Infrastructure ☁️</h3>
+<h1 align="center">Hello Techies 👋, I'm Tanuja Shinde from INDIA</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS Cloud | Linux | Networking</h3>
 
 ---
 
-<!-- Animated Side Image -->
-<img align="right" alt="DevOps GIF" width="380" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
+<img align="right" alt="DevOps" width="380" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-💡 Passionate **DevOps & AWS Engineer** with hands-on experience in building, automating, and managing scalable cloud environments.  
-⚙️ I specialize in **CI/CD pipelines, Infrastructure as Code, containerization, and cloud-native solutions**.
+💡 I am a **DevOps Engineer** with strong knowledge of **AWS Cloud, DevOps tools, Linux systems, and networking fundamentals**.  
+⚙️ I focus on **automating infrastructure, building CI/CD pipelines, and managing scalable cloud environments**.
 
-- 🔭 Currently working on **Cloud Automation & Kubernetes Deployments**
-- 🌱 Learning **Advanced Kubernetes & DevSecOps**
-- 💬 Ask me about **AWS, Docker, Terraform, CI/CD**
-- ⚡ Fun fact: *I love automating everything!*
+- ☁️ Hands-on experience with **AWS Cloud services**
+- 🔧 Skilled in **DevOps tools & automation**
+- 🐧 Strong foundation in **Linux Administration**
+- 🌐 Good understanding of **Networking Fundamentals**
+- 🚀 Passionate about **Infrastructure as Code & Cloud Automation**
 
 ---
 
@@ -35,37 +36,37 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🚀 CI/CD & Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🚀 DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=purple)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=purple)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=blue)
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🐧 Operating System
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red)
 
-### 🌐 Web Servers & Build Tools
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+### 🌐 Networking
+- TCP/IP  
+- DNS  
+- HTTP/HTTPS  
+- Load Balancing  
+- Subnetting  
 
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+### 🔧 Tools & Servers
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=yellow)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=orange)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=yellow)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=orange)
 
 ---
-## 🧠 DevOps Philosophy
+
+## 🔄 DevOps Workflow
 
 ```bash
-Automate Everything ⚙️
-Monitor Everything 📊
-Scale Efficiently 🚀
-Deploy Fearlessly 🔥
+Code → Build → Test → Deploy → Monitor → Scale
