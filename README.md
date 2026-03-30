@@ -1,6 +1,6 @@
 <!-- 🔥 Custom DevOps Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?<img type=waving&color=0:d8b4fe,50:c084fc,100:a855f7&height=300&section=header&text=Tanuja%20Shinde&fontSize=40&fontColor=ffffff&animation=fadeOut&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20%7C%20Networking&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8b4fe,50:c084fc,100:a855f7&height=300&section=header&text=Tanuja%20Shinde&font=Poppins&fontSize=40&fontColor=ffffff&animation=fadeOut&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20%7C%20Networking&descAlignY=62&descSize=18" width="100%"/>
 </p>
 
 <h1 align="center">Hello Techies 👋, I'm Tanuja Shinde from INDIA</h1>
