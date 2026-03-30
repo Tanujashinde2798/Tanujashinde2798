@@ -62,15 +62,6 @@
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 ---
-
-## 📈 DevOps Workflow
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
-</p>
-
----
-
 ## 🧠 DevOps Philosophy
 
 ```bash
