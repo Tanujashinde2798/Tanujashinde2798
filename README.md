@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Hitesh Patil</h1>
+<h1 align="center">Hi 👋, I'm Tanuja Shinde</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineer | Automating Scalable Infrastructure ☁️</h3>
 
 ---
@@ -26,10 +26,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hiteshgpatil/" target="_blank">
+  <a href="www.linkedin.com/in/tanuja-shinde-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hiiteshgpatil2004@gmail.com">
+  <a href="mailto:tanujashinde127@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
